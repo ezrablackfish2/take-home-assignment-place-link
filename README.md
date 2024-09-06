@@ -11,4 +11,4 @@ This is Ezra Yeneneh Take Home Assignment at place Link
 9. Create a pull request to the `dev` branch not `main`.
 10. Ensure to describe your pull request.
 
-
+i had a good time doing the assignment
